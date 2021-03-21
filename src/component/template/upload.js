@@ -23,7 +23,7 @@ const upload_image =(props) =>{
                        <div class="form-content">
                             <form>
                             <div class="form-group">
-                                <label for="username">Username</label>
+                                <label for="username">Title</label>
                                 <input id="username" type="text" name="username" onChange={storedTitle} required="required"/>
                             </div>
                             <div class="form-group">
